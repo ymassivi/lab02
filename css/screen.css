@@ -51,4 +51,7 @@ input[type=submit]:hover {
   input {
       width: 70%;
      }
+  input[type=submit]{
+      width: 50%
+  }
     }
