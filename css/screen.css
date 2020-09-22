@@ -33,3 +33,22 @@ input[type=submit]:hover {
   background-color: #f5fffa;
   padding: 20px;
 }
+
+@media screen and (min-width: 480px) {
+  body {
+      background-color: #f5fffa;
+    }
+  input {
+      width: 90%;
+    }
+
+  }
+
+@media screen and (min-width: 992px) {
+  body {
+      background-color: #f5fffa;
+    }
+  input {
+      width: 70%;
+     }
+    }
